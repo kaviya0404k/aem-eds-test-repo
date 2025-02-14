@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-eds-test-repo/:/",
-    "/content/aem-eds-test-repo/configuration:/.helix/config.json",
-    "/content/aem-eds-test-repo/metadata:/metadata.json"
+    "/content/EDSTestPage/:/",
+    "/content/EDSTestPage/configuration:/.helix/config.json",
+    "/content/EDSTestPage/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-eds-test-repo/"
+    "/content/EDSTestPage/"
   ]
 }
